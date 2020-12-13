@@ -41,7 +41,6 @@ bool id = 1;
 bool rs = 1;
 bool rd = 0;
 bool sp = 1;
-//bool set = 1;
 int pos = 0;                  // posizione nel vano (100 per ogni piano)
 int vel = 0;                  // variabile utilizzata tramite millis per velocita aumento posizione
 int stato = 0;                // variabile per stato menu
