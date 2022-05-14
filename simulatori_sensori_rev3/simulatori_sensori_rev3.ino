@@ -1,6 +1,6 @@
 //scritto da Moratelli Denis   aggiornato il 29/11/2020
 //sketch per scheda prototipo su base arduino per simulare sensori per prova schede madri quadro
-//aggiunto github desktop 14/05/22
+//aggiunto github desktop 14/05/2022
 
 #include <EEPROM.h>
 #include <Wire.h>
